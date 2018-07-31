@@ -1,0 +1,29 @@
+{
+  "name": "firestore-import",
+  "version": "1.0.0",
+  "description": "Import your data to Firebase Firestore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skydiver/firestore-import.git"
+  },
+  "keywords": [
+    "firestore",
+    "firebase",
+    "import",
+    "csv",
+    "json"
+  ],
+  "author": "Martín M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skydiver/firestore-import/issues"
+  },
+  "homepage": "https://github.com/skydiver/firestore-import#readme",
+  "dependencies": {
+    "commander": "^2.16.0"
+  }
+}
